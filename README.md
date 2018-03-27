@@ -10,4 +10,4 @@ Python 2.7
 
 Run entertainment_center.py using cmd : `python entertainment_center.py`
 or,
-open entertainment_center.py on python idle and run module to execute the code 
+open entertainment_center.py on python idle and run module to execute the code .
